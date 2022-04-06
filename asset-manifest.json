@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rutas/static/css/main.f38b629a.css",
+    "main.js": "/react-rutas/static/js/main.8ae4a619.js",
+    "index.html": "/react-rutas/index.html",
+    "main.f38b629a.css.map": "/react-rutas/static/css/main.f38b629a.css.map",
+    "main.8ae4a619.js.map": "/react-rutas/static/js/main.8ae4a619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38b629a.css",
+    "static/js/main.8ae4a619.js"
+  ]
+}
